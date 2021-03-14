@@ -31,6 +31,6 @@ Now are ready to detect the edges in filtered images. The methods for Edge Detec
 
 After all, the final result was:
 
-![final](https://user-images.githubusercontent.com/50829499/111067683-09f34780-84ce-11eb-8f3a-c7241a9c1072.png)
+![final](https://user-images.githubusercontent.com/50829499/111067838-b0d7e380-84ce-11eb-87ac-b2d53825eec3.png)
 
 
