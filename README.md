@@ -18,16 +18,15 @@ Then we apply filtering to these images in order to reduce noise. The types of f
 - Mean Filtering
 - Median Filtering
 
-![filtering](https://user-images.githubusercontent.com/50829499/111067647-e9c38880-84cd-11eb-84f0-9c5c04b00b28.png)
-
+![filtering](https://user-images.githubusercontent.com/50829499/111067936-3360a300-84cf-11eb-99d4-54e0790558b0.png)
 
 Now are ready to detect the edges in filtered images. The methods for Edge Detection were:
-
-![detection](https://user-images.githubusercontent.com/50829499/111067680-065fc080-84ce-11eb-9024-fbb456f3a05a.png)
 
 - Laplacian 
 - Canny 
 - Marr - Hildreth 
+
+![detection](https://user-images.githubusercontent.com/50829499/111067939-39ef1a80-84cf-11eb-9cdc-f075896c022d.png)
 
 After all, the final result was:
 
