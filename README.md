@@ -1,8 +1,11 @@
 # Image-and-Video-Technology
 
-The main purpose of the first exercise was to construct code for Image Cartoonification. The input images (.jpg)  are people's faces in the dimension of 512 x 288 pixels.First we add Noise to these Images, so as to increase variability. The noise is either:
+The main purpose of the first exercise was to construct code for Image Cartoonification. The input images (.jpg)  are people's faces in the dimension of 512 x 288 pixels.
 
 ![input](https://user-images.githubusercontent.com/50829499/111067665-fd6eef00-84cd-11eb-9af7-3d8f1d7dfad2.png)
+
+
+First we add Noise to these Images, so as to increase variability. The noise is either:
 
 - Gaussian 
 - Salt and Pepper
