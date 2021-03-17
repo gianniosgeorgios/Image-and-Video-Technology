@@ -1,6 +1,6 @@
 # Image-and-Video-Technology
 
-The main purpose of the first exercise was to construct code for Image Cartoonification. The input images (.jpg)  are people's faces in the dimension of 512 x 288 pixels. Below you can see an example of two people's faces:
+The main purpose of the first exercise was to construct code for Image Cartoonification using Edge Detection techniques. The input images (.jpg)  are people's faces in the dimension of 512 x 288 pixels. Below you can see an example of two people's faces:
 
 ![input](https://user-images.githubusercontent.com/50829499/111068018-96ead080-84cf-11eb-8237-78ce4f8602d6.png)
 
@@ -28,7 +28,7 @@ Now are ready to detect the edges in filtered images. The methods for Edge Detec
 
 ![detection](https://user-images.githubusercontent.com/50829499/111067939-39ef1a80-84cf-11eb-9cdc-f075896c022d.png)
 
-After all, the final result was:
+After all, the final result shows up below. With this image processing techinque, we found boundaries on people's faces and we can use them either for data extraction or computer vision.
 
 ![final](https://user-images.githubusercontent.com/50829499/111067838-b0d7e380-84ce-11eb-87ac-b2d53825eec3.png)
 
