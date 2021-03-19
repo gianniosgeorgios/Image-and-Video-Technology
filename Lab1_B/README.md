@@ -20,5 +20,5 @@ This gives often a better result. Moreover, in this method, we can find the top 
 
 ## Optical Flow
 
-Then we are ready to visualize optical flow using Lucas Kande algorithm. The results of our video, shows up below: 
+Then we are ready to visualize optical flow using Lucas Kande algorithm. The results of our video, show up below: 
 
