@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Using feature's exraction algorithms, and motion estimation techniques, we detect moving obgects inside videos 
+Using feature's exraction algorithms, and motion estimation techniques, we detect moving objects inside videos 
 
 ## Dataset 
 
